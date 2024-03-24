@@ -20,7 +20,6 @@ const collectEmployees = function() {
       people.push(person);
       answer = confirm("Continue?");
   }
-  console.log(people);
   return people;
 }
 
@@ -42,7 +41,6 @@ const getRandomEmployee = function(employeesArray) {
   let min = 0;
   let max = employeesArray.length;
   let arrayRow = Math.ceil(Math.random()*(max))-1;
-  console.log(arrayRow);
   console.log('way to go ' + employeesArray[arrayRow].firstName +' '+employeesArray[arrayRow].lastName);
 
 }
