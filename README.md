@@ -11,4 +11,4 @@ Here is a [link to the webpage](https://rozierhj.github.io/employee.tracker.chal
 
 This is what the web page should like like when this challenge is complete.
 
-![The script in action](https://app.screencastify.com/v3/watch/rW52tTaDuga4v9okZoQl)
+[The script in action](https://app.screencastify.com/v3/watch/rW52tTaDuga4v9okZoQl)
